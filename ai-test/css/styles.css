@@ -1,0 +1,32 @@
+        body {
+            /*padding-top: 70px;*/
+            /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+        }
+        nav .btn-group {
+            margin-left: 12px;
+        }
+        .navbar-brand {
+            padding-left: 36px;
+        }
+        li.menu-super>a{
+            padding-left: 10px;
+            font-weight: bold;
+        }
+        ul#submenu li {
+            list-style-type: none;
+        }
+         #submenu .menu-super a {
+            padding-left: 0;
+            margin-left: -10px;
+         }
+         #filler {
+            color: #888;
+         }
+         .dropdown-menu li.menu-sub {
+            /*display: none;*/
+         }
+         .mainheader{
+            margin-left: 80px;
+            color: #999;
+            margin-bottom: 36px;
+         }
